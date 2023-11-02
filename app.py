@@ -1,8 +1,8 @@
-# Author: 
-# Git: 
-# Date: 
-# Purpose: 
-# Usage: 
+# Author: Linnea Fritz-Watson (lifr9411)
+# Git: linneacfw
+# Date: 11/01/2023
+# Purpose: This file runs a flask app and stores supported routes that can be accessed via the render link below
+# Usage: runs on via render on https://lfw-lab10render-example.onrender.com with associated routes
 
 import psycopg2
 
